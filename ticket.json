@@ -24,25 +24,5 @@
       "place": "campo trasero",
       "price": 2300
     }
-  ],
-  "accounts": [
-    {
-      "id": 0,
-      "account": "CA $ 85738/9",
-      "currency": "ARS",
-      "amount": 8745
-    },
-    {
-      "id": 1,
-      "account": "CA $ 57531/2",
-      "currency": "ARS",
-      "amount": 2087.12
-    },
-    {
-      "id": 2,
-      "account": "CA $ 87245/8",
-      "currency": "ARS",
-      "amount": 13502.75
-    }
   ]
 }
