@@ -1,0 +1,36 @@
+{
+  tickets: [
+    {
+      id: 0,
+      type: "Regular",
+      place: "campo",
+      price: 2200,
+    },
+    {
+      id: 1,
+      type: "VIP",
+      place: "platea",
+      price: 8500,
+    },
+  ],
+  accounts: [
+    {
+      id: 0,
+      account: "CA $ 85738/9",
+      currency: "ARS"
+      amount: 8745.00
+    },
+    {
+      id: 1,
+      account: "CA $ 57531/2",
+      currency: "ARS"
+      amount: 2087.12
+    },
+    {
+      id: 2,
+      account: "CA $ 87245/8",
+      currency: "ARS"
+      amount: 13502.75
+    },
+  ]
+}
