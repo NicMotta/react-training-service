@@ -2,27 +2,39 @@
   "tickets": [
     {
       "id": 0,
-      "type": "regular",
-      "place": "campo",
-      "price": 4200
+      "benefit": "Ahorrá un 15% en tu compra utilizando tu caja de ahorro en pesos.",
+      "place": "campo trasero",
+      "price": 2500
     },
     {
       "id": 1,
-      "type": "VIP",
-      "place": "campo vip",
-      "price": 12600
+      "benefit": "Ahorrá un 20% en tu compra utilizando tu caja de ahorro en pesos.",
+      "place": "campo delantero",
+      "price": 3250
     },
     {
       "id": 2,
-      "type": "regular",
-      "place": "platea",
-      "price": 7500
+      "benefit": "Ahorrá un 30% en tu compra utilizando tu caja de ahorro en pesos.",
+      "place": "campo vip",
+      "price": 7300
     },
     {
       "id": 3,
-      "type": "regular",
-      "place": "campo trasero",
-      "price": 2300
+      "benefit": "Ahorrá un 15% en tu compra utilizando tu caja de ahorro en pesos.",
+      "place": "platea alta",
+      "price": 12600
+    },
+    {
+      "id": 4,
+      "benefit": "Ahorrá un 20% en tu compra utilizando tu caja de ahorro en pesos.",
+      "place": "platea baja",
+      "price": 22100
+    },
+    {
+      "id": 5,
+      "benefit": "Ahorrá un 30% en tu compra utilizando tu caja de ahorro en pesos.",
+      "place": "platea vip",
+      "price": 37500
     }
   ]
 }
