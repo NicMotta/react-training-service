@@ -1,2 +1,2 @@
-# react-trainning-service
-Service mock - React Trainning
+# react-training-service
+Service mock - React Training
