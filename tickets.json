@@ -3,36 +3,42 @@
     {
       "id": 0,
       "benefit": "Ahorrá un 15% en tu compra utilizando tu caja de ahorro en pesos.",
+      "discount": 15,
       "place": "campo trasero",
       "price": 2500
     },
     {
       "id": 1,
       "benefit": "Ahorrá un 20% en tu compra utilizando tu caja de ahorro en pesos.",
+      "discount": 20,
       "place": "campo delantero",
       "price": 3250
     },
     {
       "id": 2,
       "benefit": "Ahorrá un 30% en tu compra utilizando tu caja de ahorro en pesos.",
+      "discount": 30,
       "place": "campo vip",
       "price": 7300
     },
     {
       "id": 3,
       "benefit": "Ahorrá un 15% en tu compra utilizando tu caja de ahorro en pesos.",
+      "discount": 15,
       "place": "platea alta",
       "price": 12600
     },
     {
       "id": 4,
       "benefit": "Ahorrá un 20% en tu compra utilizando tu caja de ahorro en pesos.",
+      "discount": 20,
       "place": "platea baja",
       "price": 22100
     },
     {
       "id": 5,
       "benefit": "Ahorrá un 30% en tu compra utilizando tu caja de ahorro en pesos.",
+      "discount": 30,
       "place": "platea vip",
       "price": 37500
     }
